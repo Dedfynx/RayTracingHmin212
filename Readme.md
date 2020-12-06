@@ -1,2 +1,2 @@
 # Projet RayTracing
-![Rendu](output.png)
+![Rendu](build/output.png)
